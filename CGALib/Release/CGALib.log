@@ -1,0 +1,10 @@
+﻿  FontTypeRendering.cpp
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Clase\CGALib\src\FontTypeRendering.cpp(134,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Clase\CGALib\src\FontTypeRendering.cpp(134,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+     Creando biblioteca C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Clase\Release\CGALib.lib y objeto C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Clase\Release\CGALib.exp
+  Generando código
+  1 of 1307 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  CGALib.vcxproj -> C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Clase\Release\CGALib.dll
