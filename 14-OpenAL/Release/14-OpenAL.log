@@ -1,0 +1,200 @@
+﻿  main.cpp
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(264,12): warning C4251: 'AbstractModel::position': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(265,12): warning C4251: 'AbstractModel::scale': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(266,12): warning C4251: 'AbstractModel::color': struct 'glm::vec<4,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(419,10): message : vea la declaración de 'glm::vec<4,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(267,12): warning C4251: 'AbstractModel::orientation': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(269,22): warning C4251: 'AbstractModel::vertexArray': class 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(245,13): message : vea la declaración de 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(270,22): warning C4251: 'AbstractModel::index': class 'std::vector<std::seed_seq::result_type,std::allocator<std::seed_seq::result_type>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\random(242,5): message : vea la declaración de 'std::vector<std::seed_seq::result_type,std::allocator<std::seed_seq::result_type>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(271,7): warning C4251: 'AbstractModel::aabb': class 'AbstractModel::AABB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(65,8): message : vea la declaración de 'AbstractModel::AABB'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(272,6): warning C4251: 'AbstractModel::sbb': class 'AbstractModel::SBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(51,8): message : vea la declaración de 'AbstractModel::SBB'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(273,6): warning C4251: 'AbstractModel::obb': class 'AbstractModel::OBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(94,8): message : vea la declaración de 'AbstractModel::OBB'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(75,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(76,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(77,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(78,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(79,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(80,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Sphere.h(39,6): warning C4251: 'Sphere::sbb': class 'AbstractModel::SBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Sphere'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(51,8): message : vea la declaración de 'AbstractModel::SBB'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Box.h(37,7): warning C4251: 'Box::aabb': class 'AbstractModel::AABB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Box'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AbstractModel.h(65,8): message : vea la declaración de 'AbstractModel::AABB'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Camera.h(111,12): warning C4251: 'Camera::position': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Camera.h(112,12): warning C4251: 'Camera::front': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Camera.h(113,12): warning C4251: 'Camera::up': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Camera.h(114,12): warning C4251: 'Camera::right': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Camera.h(115,12): warning C4251: 'Camera::worldUp': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Camera.h(117,12): warning C4251: 'Camera::cameraTarget': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Texture.h(66,14): warning C4251: 'Texture::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Texture'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5155,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Texture.h(69,14): warning C4251: 'Texture::type': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Texture'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5155,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Bones.h(111,38): warning C4251: 'Bones::m_BoneMapping': class 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Bones.h(111,7): message : vea la declaración de 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Bones.h(112,24): warning C4251: 'Bones::m_BoneInfo': class 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Bones.h(112,7): message : vea la declaración de 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Bones.h(113,30): warning C4251: 'Bones::bones': class 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Bones.h(113,7): message : vea la declaración de 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Mesh.h(54,24): warning C4251: 'Mesh::textures': class 'std::vector<Texture *,std::allocator<Texture *>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Mesh'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Mesh.h(54,7): message : vea la declaración de 'std::vector<Texture *,std::allocator<Texture *>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Model.h(66,21): warning C4251: 'Model::meshes': class 'std::vector<Mesh *,std::allocator<Mesh *>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Model.h(50,7): message : vea la declaración de 'std::vector<Mesh *,std::allocator<Mesh *>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Model.h(67,24): warning C4251: 'Model::textureLoaded': class 'std::vector<Texture *,std::allocator<Texture *>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Mesh.h(54,7): message : vea la declaración de 'std::vector<Texture *,std::allocator<Texture *>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Model.h(68,14): warning C4251: 'Model::directory': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5155,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Model.h(70,12): warning C4251: 'Model::m_GlobalInverseTransform': struct 'glm::mat<4,4,glm::f32,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(518,10): message : vea la declaración de 'glm::mat<4,4,glm::f32,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Model.h(72,19): warning C4251: 'Model::importer': class 'Assimp::Importer' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\assimp\include\assimp\Importer.hpp(115,18): message : vea la declaración de 'Assimp::Importer'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Terrain.h(50,14): warning C4251: 'Terrain::heightMap': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Terrain'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5155,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(57,13): warning C4273: 'matToString': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(45,24): message : vea la definición anterior de 'matToString'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(68,6): warning C4273: 'appendFrame': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(46,17): message : vea la definición anterior de 'appendFrame'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(77,6): warning C4273: 'appendFrame': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(48,17): message : vea la definición anterior de 'appendFrame'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(86,37): warning C4273: 'getKeyFrames': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(50,48): message : vea la definición anterior de 'getKeyFrames'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(112,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(128,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(138,33): warning C4273: 'getKeyRotFrames': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(51,44): message : vea la definición anterior de 'getKeyRotFrames'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(153,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(162,11): warning C4273: 'interpolate': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(52,22): message : vea la definición anterior de 'interpolate'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(183,7): warning C4273: 'interpolate': vinculación de DLL incoherente
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\AnimationUtils.h(54,18): message : vea la definición anterior de 'interpolate'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\Colisiones.h(133,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\ShadowBox.h(40,11): warning C4251: 'ShadowBox::front': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\ShadowBox.h(41,11): warning C4251: 'ShadowBox::up': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\ShadowBox.h(42,11): warning C4251: 'ShadowBox::right': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\ShadowBox.h(43,11): warning C4251: 'ShadowBox::mins': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\CGALib\include\Headers\ShadowBox.h(44,11): warning C4251: 'ShadowBox::maxs': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'ShadowBox'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\external\glm\glm\fwd.hpp(418,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(288,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1279,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1543,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1544,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1545,18): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1546,18): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1550,24): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1636,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1636,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1638,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1638,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(1715,109): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2008,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2023,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2051,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2066,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2081,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2096,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2113,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2128,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2143,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2158,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2197,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2212,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2227,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2242,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2257,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2272,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2287,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2717,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2725,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2735,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2743,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2751,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2759,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2769,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2777,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2785,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2793,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2803,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2811,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2819,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2827,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2835,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2843,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2851,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2859,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2897,59): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\14-OpenAL\src\main.cpp(2983,138): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+     Creando biblioteca C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\Release\14-OpenAL.lib y objeto C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\Release\14-OpenAL.exp
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  6 of 1577 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(vulkan.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_joystick.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_time.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_tls.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_tls.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(wgl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(egl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  14-OpenAL.vcxproj -> C:\Users\santi\Desktop\Semestre_2023-2\Computacion_Grafica_Avanzada\Repositorio\Proyecto_Final\Release\14-OpenAL.exe
